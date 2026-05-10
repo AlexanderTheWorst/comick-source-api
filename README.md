@@ -1,6 +1,6 @@
 # Comick Source API
 
-Next.js API for scraping manga metadata from multiple sources.
+This is a modified version of [comick-source-api](https://github.com/GooglyBlox/comick-source-api) with an aditional endpoint `/api/pages` to take in results from `/api/chapters` and give related pages.
 
 [Live API](https://comick-source-api.notaspider.dev) | [Userscript](https://greasyfork.org/en/scripts/555280-comick-source-linker)
 
